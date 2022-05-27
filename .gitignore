@@ -1,0 +1,5 @@
+/vendor/*
+*.csv
+*.xls
+/.idea/*
+config/*.php

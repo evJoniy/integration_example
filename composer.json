@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mautic/api-library": "^3.0",
+      "ext-json": "*",
+      "ext-pdo": "*"
+    }
+}

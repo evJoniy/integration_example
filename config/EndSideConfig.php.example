@@ -1,0 +1,8 @@
+<?php
+// Define API connection
+return $mtaSettings = [
+    'url' => 'http://site.loc',
+    'authMethod' => 'BasicAuth',
+    'userName' => 'admin',
+    'password' => 'admin',
+];

@@ -1,0 +1,12 @@
+<?php
+// Define SQL view source
+$sqlViewSource = [
+    'db' => 'mysql',
+    'host' => 'localhost',
+//    'port' => '3306',
+    'dbName' => 'test',
+    'dbUser' => 'root',
+    'dbPass' => 'root',
+    'crm' => 'CRM',
+    'leads' => 'leads'
+];
